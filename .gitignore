@@ -1,0 +1,7 @@
+.env
+.env.*
+*.key
+node_modules/
+.DS_Store
+Thumbs.db
+_raw-*.png
