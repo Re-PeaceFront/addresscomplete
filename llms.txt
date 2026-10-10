@@ -39,7 +39,7 @@ Store server keys in environment variables or a secrets store. Never commit keys
 |------|-----|
 | Marketing / SEO site | https://aicaaddresscomplete.com/ |
 | Account, billing, API keys | https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/ |
-| REST API + widget CDN | https://aica-apis.quebecstore.ca/v1/... |
+| REST autocomplete | https://aica-apis.quebecstore.ca/v1/address/autocomplete |
 
 ## Widget
 

@@ -12,7 +12,8 @@ This repository is the public integration pack: widget files, example JSON, scre
 | Try the widget | https://aicaaddresscomplete.com/try-free-address-autocomplete-api |
 | Documentation | https://aicaaddresscomplete.com/documentation |
 | Pricing | https://aicaaddresscomplete.com/pricing |
-| API host | https://aica-apis.quebecstore.ca/v1/ |
+| Account | https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/ |
+| Autocomplete API | https://aica-apis.quebecstore.ca/v1/address/autocomplete |
 | French pages | add `?lang=fr` |
 
 Canada only. Do not assume US ZIP formats.
@@ -75,7 +76,7 @@ When the visitor picks an address, `onSelect` receives a record like this ([`exa
 
 ## REST API
 
-Base: `https://aica-apis.quebecstore.ca/v1/`  
+Autocomplete endpoint: `https://aica-apis.quebecstore.ca/v1/address/autocomplete`  
 Auth: header `X-AICA-API-Key: $AICA_API_KEY` (or `?api_key=` on server-side GET only).
 
 ### Autocomplete

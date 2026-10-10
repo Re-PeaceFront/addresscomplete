@@ -12,7 +12,8 @@ Dépôt public d’intégration : widget, exemples JSON, captures, et fichiers p
 | Essayer le widget | https://aicaaddresscomplete.com/try-free-address-autocomplete-api?lang=fr |
 | Documentation | https://aicaaddresscomplete.com/documentation?lang=fr |
 | Tarifs | https://aicaaddresscomplete.com/pricing?lang=fr |
-| API | https://aica-apis.quebecstore.ca/v1/ |
+| Compte | https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/ |
+| API autocomplete | https://aica-apis.quebecstore.ca/v1/address/autocomplete |
 
 Canada seulement. Pas de codes ZIP américains.
 
