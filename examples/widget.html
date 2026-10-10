@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AICA Address Autocomplete — widget example</title>
+  <!-- Load from the CDN in production. Do not iframe this page. -->
+  <script src="https://aica-apis.quebecstore.ca/v1/address/autocomplete/canada/interactive/aica-loader.js" async></script>
+</head>
+<body>
+  <h1>Canadian address</h1>
+  <form id="checkout">
+    <div
+      id="address-field"
+      data-aica-autocomplete
+      data-api-key="aica_live_YOUR_WIDGET_KEY"
+      data-aica-fields-root="#checkout">
+    </div>
+    <p>
+      <label>Street <input name="street" data-aica-field="street_line"></label>
+    </p>
+    <p>
+      <label>City <input name="city" data-aica-field="city"></label>
+    </p>
+    <p>
+      <label>Province <input name="province" data-aica-field="province"></label>
+    </p>
+    <p>
+      <label>Postal code <input name="postal_code" data-aica-field="postal_code"></label>
+    </p>
+  </form>
+  <p>
+    Create an account, then a widget API key, then allowlist this page’s domain
+    under API management. A live key needs an active plan or credits.
+  </p>
+</body>
+</html>

@@ -1,0 +1,149 @@
+{
+  "status": "success",
+  "validated": false,
+  "confidence": 100,
+  "input": "1 YONGE ST, TORONTO, ON, M5E 1E5",
+  "reason": "multiple_matches",
+  "choices": [
+    {
+      "choice": 1,
+      "confidence": 100,
+      "address": "1 YONGE ST",
+      "city": "TORONTO",
+      "province": "ON",
+      "postal_code": "M5E 1E5",
+      "addr_id": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+      "result": "1 YONGE ST, TORONTO, ON, M5E 1E5",
+      "other_meta": {
+        "addr_id": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+        "is_address_building": true,
+        "unit_count": 22,
+        "unit": "",
+        "building_line": "1 YONGE ST",
+        "relation_complex": "",
+        "full_addr": "1 YONGE ST",
+        "street_line": "1 YONGE ST",
+        "city": "TORONTO",
+        "postal_code": "M5E 1E5",
+        "province_abbr": "ON",
+        "location": {
+          "lat": 43.642085,
+          "lon": -79.374717
+        },
+        "display_line": "1 YONGE ST, TORONTO, ON, M5E 1E5"
+      }
+    },
+    {
+      "choice": 2,
+      "confidence": 100,
+      "address": "1700-1 YONGE ST",
+      "city": "TORONTO",
+      "province": "ON",
+      "postal_code": "M5E 1E5",
+      "addr_id": "0eb234cc-4d1a-4de4-9468-23a45476d50a",
+      "result": "1700-1 YONGE ST, TORONTO, ON, M5E 1E5",
+      "other_meta": {
+        "addr_id": "0eb234cc-4d1a-4de4-9468-23a45476d50a",
+        "is_address_building": false,
+        "unit_count": 0,
+        "unit": "1700",
+        "building_line": "1 YONGE ST",
+        "relation_complex": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+        "full_addr": "1700-1 YONGE ST",
+        "street_line": "1700-1 YONGE ST",
+        "city": "TORONTO",
+        "postal_code": "M5E 1E5",
+        "province_abbr": "ON",
+        "location": {
+          "lat": 43.642085,
+          "lon": -79.374717
+        },
+        "display_line": "1700-1 YONGE ST, TORONTO, ON, M5E 1E5"
+      }
+    },
+    {
+      "choice": 3,
+      "confidence": 100,
+      "address": "2402-1 YONGE ST",
+      "city": "TORONTO",
+      "province": "ON",
+      "postal_code": "M5E 1E5",
+      "addr_id": "e6f663b6-7bdf-438f-98d1-b3d1a8de4f93",
+      "result": "2402-1 YONGE ST, TORONTO, ON, M5E 1E5",
+      "other_meta": {
+        "addr_id": "e6f663b6-7bdf-438f-98d1-b3d1a8de4f93",
+        "is_address_building": false,
+        "unit_count": 0,
+        "unit": "2402",
+        "building_line": "1 YONGE ST",
+        "relation_complex": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+        "full_addr": "2402-1 YONGE ST",
+        "street_line": "2402-1 YONGE ST",
+        "city": "TORONTO",
+        "postal_code": "M5E 1E5",
+        "province_abbr": "ON",
+        "location": {
+          "lat": 43.642085,
+          "lon": -79.374717
+        },
+        "display_line": "2402-1 YONGE ST, TORONTO, ON, M5E 1E5"
+      }
+    },
+    {
+      "choice": 4,
+      "confidence": 100,
+      "address": "205-1 YONGE ST",
+      "city": "TORONTO",
+      "province": "ON",
+      "postal_code": "M5E 1E5",
+      "addr_id": "4186c0dc-54f8-45e2-9529-e9a6deaff7c2",
+      "result": "205-1 YONGE ST, TORONTO, ON, M5E 1E5",
+      "other_meta": {
+        "addr_id": "4186c0dc-54f8-45e2-9529-e9a6deaff7c2",
+        "is_address_building": false,
+        "unit_count": 0,
+        "unit": "205",
+        "building_line": "1 YONGE ST",
+        "relation_complex": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+        "full_addr": "205-1 YONGE ST",
+        "street_line": "205-1 YONGE ST",
+        "city": "TORONTO",
+        "postal_code": "M5E 1E5",
+        "province_abbr": "ON",
+        "location": {
+          "lat": 43.642085,
+          "lon": -79.374717
+        },
+        "display_line": "205-1 YONGE ST, TORONTO, ON, M5E 1E5"
+      }
+    },
+    {
+      "choice": 5,
+      "confidence": 100,
+      "address": "1801-1 YONGE ST",
+      "city": "TORONTO",
+      "province": "ON",
+      "postal_code": "M5E 1E5",
+      "addr_id": "8da5541e-7f4c-4b96-a886-7d087f5acd43",
+      "result": "1801-1 YONGE ST, TORONTO, ON, M5E 1E5",
+      "other_meta": {
+        "addr_id": "8da5541e-7f4c-4b96-a886-7d087f5acd43",
+        "is_address_building": false,
+        "unit_count": 0,
+        "unit": "1801",
+        "building_line": "1 YONGE ST",
+        "relation_complex": "c7073342-4d12-4bfc-9baf-7277310d8c62",
+        "full_addr": "1801-1 YONGE ST",
+        "street_line": "1801-1 YONGE ST",
+        "city": "TORONTO",
+        "postal_code": "M5E 1E5",
+        "province_abbr": "ON",
+        "location": {
+          "lat": 43.642085,
+          "lon": -79.374717
+        },
+        "display_line": "1801-1 YONGE ST, TORONTO, ON, M5E 1E5"
+      }
+    }
+  ]
+}

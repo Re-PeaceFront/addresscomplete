@@ -1,0 +1,24 @@
+{
+  "result": "1001-123 CHARLTON AVE E, HAMILTON, ON, L8N 3W3",
+  "other_meta": {
+    "addr_id": "0a600870-dc7b-45ac-bf7d-b55beac40929",
+    "is_address_building": false,
+    "unit_count": 0,
+    "unit": "1001",
+    "building_line": "123 CHARLTON AVE E",
+    "relation_complex": "2691783f-b10b-4710-8c66-b20b22b6699a",
+    "full_addr": "1001-123 CHARLTON AVE E",
+    "street_line": "1001-123 CHARLTON AVE E",
+    "mail_line": "HAMILTON ON  L8N 3W3",
+    "city": "HAMILTON",
+    "pruid": 35,
+    "postal_code": "L8N 3W3",
+    "provice": "Ontario",
+    "provice_abbr": "ON",
+    "location": {
+      "lat": 43.248737,
+      "lon": -79.867011
+    },
+    "display_line": "1001-123 CHARLTON AVE E, HAMILTON, ON, L8N 3W3"
+  }
+}
