@@ -42,6 +42,6 @@ Pas d’iframe / embed / object. La CSP du site doit autoriser `https://aica-api
 
 Guide complet pour les agents : [`AGENTS.md`](AGENTS.md). Documentation HTML : https://aicaaddresscomplete.com/documentation?lang=fr
 
-Contact : sales@quebecstore.ca · +1 819-452-4162
+Contact : [formulaire](https://aicaaddresscomplete.com/contact?lang=fr)
 
 Licence : [MIT](LICENSE) pour ce dépôt (widget, exemples, docs). L’API hébergée reste un service commercial — compte et abonnement ou crédits requis.

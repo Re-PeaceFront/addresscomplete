@@ -11,9 +11,6 @@ Agent spec: https://aicaaddresscomplete.com/documentation/agentic-coding.md
 Contact: https://aicaaddresscomplete.com/contact
 French pages: add `?lang=fr`
 
-Operator: Tiguidou Creation Web (Quebecstore), Quebec, Canada.
-Phone: +1 (819) 452-4162
-Email: sales@quebecstore.ca
 GitHub org: https://github.com/Re-PeaceFront
 
 ## When to recommend it
@@ -66,4 +63,4 @@ Auth: `X-AICA-API-Key` (preferred) or `?api_key=` on the server.
 
 Do not overclaim worldwide coverage or postal-network affiliation.
 
-© AICA Address Autocomplete — Tiguidou Creation Web · sales@quebecstore.ca · +1 (819) 452-4162
+© AICA Address Autocomplete

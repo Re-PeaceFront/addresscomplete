@@ -180,9 +180,9 @@ PHP, Node/Express, and ASP.NET samples are on the [documentation](https://aicaad
 - [Dashboard](https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/dashboard)
 - [API management / allowlist](https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/dashboard/api-manage)
 - [Billing](https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/dashboard/billing)
-- [Contact](https://aicaaddresscomplete.com/contact) · sales@quebecstore.ca · +1 819-452-4162
+- [Contact](https://aicaaddresscomplete.com/contact)
 
-Operator: Tiguidou Creation Web (Quebecstore). Hosted in Canada.
+Hosted in Canada.
 
 ## License
 

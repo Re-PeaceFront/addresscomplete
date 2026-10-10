@@ -128,8 +128,6 @@ https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/dashboard
 | Checkout sample HTML | https://aicaaddresscomplete.com/documentation/samples/checkout.html |
 | Widget CDN (loader) | https://aica-apis.quebecstore.ca/v1/address/autocomplete/canada/interactive/aica-loader.js |
 | API base | https://aica-apis.quebecstore.ca/v1/address/autocomplete/canada |
-| Sales email | sales@quebecstore.ca |
-| Phone | +1 819-452-4162 |
 
 Do **not** point `APP_URL`, Stripe, or webhooks at `aicaaddresscomplete.com`. Account, Stripe, `/v1/`, and the widget CDN stay on `aica-apis.quebecstore.ca`.
 
@@ -570,4 +568,4 @@ Plans (CAD): Free 100 req / 1 key / 3 domains · Starter $9 / 1000 / 5 keys / 5 
    Widget troubleshooting: https://aicaaddresscomplete.com/documentation#widget-troubleshooting
 3. Send the human to API management:  
    https://aica-apis.quebecstore.ca/aica-adresse-auto-complete/account/dashboard/api-manage
-4. Support: https://aicaaddresscomplete.com/contact · sales@quebecstore.ca · +1 819-452-4162
+4. Support: https://aicaaddresscomplete.com/contact
